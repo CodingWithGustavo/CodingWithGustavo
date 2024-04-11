@@ -2,18 +2,18 @@
 ## Sobre Mim
 👋 Sou Gustavo Silva, um entusiasta do desenvolvimento Full Stack, apaixonado aprendizado e desenvolvimento em grupo. Além disso, tenho interesse em Machine Learning.
 
-# Habilidades 🛠️
+## Habilidades 🛠️
 💡 Aprendizado Rápido e Eficaz
 💬 Comunicação
 🔧 Angular | JavaScript | Python
 
-# Projetos Destacados 🌟
+## Projetos Destacados 🌟
 🔐 Tela Interativa de Login (Angular + DjangoRest)
 💬 Software de Chat em Tempo Real
 
-# Interesses 📚
+## Interesses 📚
 🔍 Aperfeiçoamento em Angular/JavaScript
 📈 Enriquecimento do Perfil no GitHub
 
-# Contato 📧
+## Contato 📧
 ✉️ gu-silva16@hotmail.com
