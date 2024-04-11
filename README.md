@@ -1,6 +1,6 @@
 ## Olá Meu nome é Gustavo Silva, Sou desenvolvedor e Apaixonado pelo mundo da tecnlogia ! 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithGustavo&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithGustavo&hide_progress=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
