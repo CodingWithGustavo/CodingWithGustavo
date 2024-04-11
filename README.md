@@ -2,12 +2,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithGustavo&hide_progress=true)
 
-## Gustavo Silva
+# Gustavo Silva
 
-# Sobre Mim
+## Sobre Mim
 Olá! Sou Gustavo Silva, um jovem extremamente dedicado e focado nos meus objetivos. Tenho um forte interesse no desenvolvimento Full Stack e amo ensinar e aprender em grupo. Nas horas vagas, mergulho no estudo de Machine Learning.
 
-<h3>Habilidades</h3>
+## Habilidades
 Aprendizado Rápido e Eficaz: Sou capaz de assimilar novos conceitos rapidamente e aplicá-los de forma eficaz.
 Comunicação: Tenho habilidades sólidas de comunicação, o que me permite colaborar efetivamente em equipe.
 Tecnologias Dominantes: Atualmente, estou dominando as seguintes tecnologias:
@@ -16,15 +16,15 @@ Tecnologias Dominantes: Atualmente, estou dominando as seguintes tecnologias:
   - JavaScript
   - Python
 
-<h3>Projetos Destacados</h3>
+## Projetos Destacados
 Tela Interativa de Login: Desenvolvi uma tela interativa de login utilizando Angular no frontend e DjangoRest no backend, sendo este um dos meus projetos de maior orgulho.
 Software de Chat em Tempo Real: Estou atualmente trabalhando em um software de chat em tempo real, buscando oferecer uma experiência imersiva aos usuários.
 
-<h3>Interesses</h3>
+## Interesses
 Aperfeiçoamento em Angular/JavaScript: Estou interessado em aprimorar meus conhecimentos em Angular/JavaScript para enriquecer meu perfil no GitHub.
 Enriquecimento do Perfil no GitHub: Busco constantemente atualizar e melhorar meu perfil no GitHub com projetos interessantes e de alta qualidade.
 
-<h3>Contato</h3>
+## Contato
 Email: gu-silva16@hotmail.com
 
 <div style="display: inline_block"><br>
