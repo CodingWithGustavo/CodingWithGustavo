@@ -11,6 +11,7 @@ Olá! Sou Gustavo Silva, um jovem extremamente dedicado e focado nos meus objeti
 Aprendizado Rápido e Eficaz: Sou capaz de assimilar novos conceitos rapidamente e aplicá-los de forma eficaz.
 Comunicação: Tenho habilidades sólidas de comunicação, o que me permite colaborar efetivamente em equipe.
 Tecnologias Dominantes: Atualmente, estou dominando as seguintes tecnologias:
+
   - Angular
   - JavaScript
   - Python
