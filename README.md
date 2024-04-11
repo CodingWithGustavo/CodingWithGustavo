@@ -1,7 +1,3 @@
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithGustavo&hide_progress=true)
-
 # Gustavo Silva
 
 ## Sobre Mim
