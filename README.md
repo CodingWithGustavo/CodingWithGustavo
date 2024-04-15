@@ -3,5 +3,7 @@
 
 ## 🔧 Angular | Reactive | JavaScript | Python
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithGustavo&layout=compact)
+
 ## Contato 📧
 ✉️ gu-silva16@hotmail.com
