@@ -3,5 +3,4 @@
 
 ## 🔧 Angular | Reactive | JavaScript | Python
 
-## Contato 📧
-✉️ gu-silva16@hotmail.com
+## Contato 📧 gu-silva16@hotmail.com
